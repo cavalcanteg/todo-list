@@ -13,5 +13,4 @@ Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
 - CSS3
 - JavaScript
 
-## 🌍 Projeto online
-https://cavalcanteg.github.io/todo-list/
+
